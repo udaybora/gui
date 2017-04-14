@@ -6,6 +6,9 @@ This is a simple GUI application that uses java.
  It consists of a login window , home window and a register window.
  
  
+ Login.java is the main file
+ 
+ 
  Please use the below credentials to access the login window.
  
  
